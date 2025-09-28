@@ -1,6 +1,6 @@
 # Fake News Detection Project <br>
 
-![image alt](https://beconnected.esafety.gov.au/pluginfile.php/52815/mod_resource/content/12/fake-news-hero-img.jpg)
+![image alt](https://images.theconversation.com/files/284418/original/file-20190717-173334-1b9vdud.jpg?ixlib=rb-4.1.0&rect=0%2C350%2C6490%2C3240&q=45&auto=format&w=1356&h=668&fit=crop)
 
 This project demonstrates a simple fake news detection model using a Passive Aggressive Classifier and TF-IDF vectorization.
 
